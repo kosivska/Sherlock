@@ -1,0 +1,27 @@
+<svg width="103" height="103" viewBox="0 0 103 103" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="telegram">
+<g id="Oval" filter="url(#filter0_d)">
+<path d="M51.5 73C68.897 73 83 58.897 83 41.5C83 24.103 68.897 10 51.5 10C34.103 10 20 24.103 20 41.5C20 58.897 34.103 73 51.5 73Z" fill="#44AFE0"/>
+</g>
+<g id="telegram_2">
+<path id="path2993" d="M46.6427 53.6451C45.7815 53.6451 45.936 53.3139 45.6269 52.4968L43.1094 44.1935L58.7444 34.4326L60.5773 34.9185L59.0535 39.0701L46.6427 53.6451Z" fill="#C8DAEA"/>
+<path id="path2989" d="M46.6426 53.6452C47.3051 53.6452 47.5922 53.3361 47.9676 52.9827C48.5417 52.4307 55.9176 45.2536 55.9176 45.2536L51.3905 44.1494L47.1947 46.7994L46.6426 53.4244V53.6452Z" fill="#A9C9DD"/>
+<path id="path2991" d="M47.0834 46.8879L57.7718 54.7716C58.9864 55.4341 59.8697 55.1029 60.1789 53.6454L64.5293 33.152C64.9709 31.3633 63.8447 30.5683 62.6743 31.0983L37.1459 40.9474C35.4014 41.6541 35.4234 42.6258 36.8368 43.0454L43.3955 45.0991L58.5668 35.537C59.2734 35.0954 59.9359 35.3383 59.4059 35.8241L47.0834 46.8879Z" fill="url(#paint0_linear)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="103" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="10"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.266667 0 0 0 0 0.686275 0 0 0 0 0.878431 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="48.2169" y1="44.6428" x2="52.3619" y2="54.0804" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EFF7FC"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>

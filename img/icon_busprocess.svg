@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_busprocess">
+<path id="Oval" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M32 64C49.6731 64 64 49.6731 64 32C64 14.3269 49.6731 0 32 0C14.3269 0 0 14.3269 0 32C0 49.6731 14.3269 64 32 64Z" fill="#9013FE"/>
+<path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M44 22H20C18.3431 22 17 23.3431 17 25V41C17 42.6569 18.3431 44 20 44H44C45.6569 44 47 42.6569 47 41V25C47 23.3431 45.6569 22 44 22ZM19 25C19 24.4477 19.4477 24 20 24H44C44.5523 24 45 24.4477 45 25V41C45 41.5523 44.5523 42 44 42H20C19.4477 42 19 41.5523 19 41V25Z" fill="#9013FE"/>
+<rect id="Combined Shape" x="27" y="30" width="27.6763" height="12" fill="#9013FE"/>
+<path id="Rectangle_2" fill-rule="evenodd" clip-rule="evenodd" d="M35.5 17H28.5C26.567 17 25 18.567 25 20.5V24H39V20.5C39 18.567 37.433 17 35.5 17ZM37 22H27V20.5C27 19.6716 27.6716 19 28.5 19H35.5C36.3284 19 37 19.6716 37 20.5V22Z" fill="#9013FE"/>
+<path id="Rectangle_3" fill-rule="evenodd" clip-rule="evenodd" d="M35 30H29C27.8954 30 27 30.8954 27 32V34C27 35.1046 27.8954 36 29 36H35C36.1046 36 37 35.1046 37 34V32C37 30.8954 36.1046 30 35 30ZM29 34V32H35V34H29Z" fill="#9013FE"/>
+</g>
+</svg>

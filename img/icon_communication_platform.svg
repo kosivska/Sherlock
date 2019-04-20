@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_communication_platform">
+<path id="Oval" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M32 64C49.6731 64 64 49.6731 64 32C64 14.3269 49.6731 0 32 0C14.3269 0 0 14.3269 0 32C0 49.6731 14.3269 64 32 64Z" fill="#50E3C2"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M20 28H16C14.9 28 14 28.9 14 30V34C14 35.1046 14.8954 36 16 36H20C21.1046 36 22 35.1046 22 34V30C22 28.8954 21.1046 28 20 28ZM16 34V30H20V34H16ZM44 28H48C49.1046 28 50 28.8954 50 30V34C50 35.1046 49.1046 36 48 36H44C42.8954 36 42 35.1046 42 34V30C42 28.9 42.9 28 44 28ZM44 34V30H48V34H44ZM30 28H34C35.1046 28 36 28.8954 36 30V34C36 35.1046 35.1046 36 34 36H30C28.8954 36 28 35.1046 28 34V30C28 28.9 28.9 28 30 28ZM30 34V30H34V34H30Z" fill="#38CBAA"/>
+<rect id="Combined Shape" x="16" y="24" width="16" height="13" fill="#38CBAA"/>
+<rect id="Combined Shape_2" x="48" y="40" width="16" height="13" transform="rotate(-180 48 40)" fill="#38CBAA"/>
+</g>
+</svg>

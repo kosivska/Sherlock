@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_cients">
+<path id="Oval" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M32 64C49.6731 64 64 49.6731 64 32C64 14.3269 49.6731 0 32 0C14.3269 0 0 14.3269 0 32C0 49.6731 14.3269 64 32 64Z" fill="#50E3C2"/>
+<g id="Tree">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M41 28C41 26.8954 40.1941 26 39.2 26H33.269L31.469 24H24.8C23.81 24 23 24.9 23 26V38C23 39.1046 23.8059 40 24.8 40H39.2C40.1941 40 41 39.1046 41 38V28ZM24.8 38V26H30.731L32.531 28H39.2V38H24.8Z" fill="#38CBAA"/>
+</g>
+</g>
+</svg>
